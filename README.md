@@ -1,11 +1,3 @@
 # P-How_To_Import_Java_Project
 
-d hfgh fgh fg
-h
-fg
-h
-fgh
-f
-gh
-f
-ghfgh
+Java projelerinin derleyicilere nasıl eklenildiğinin fotoğraflarla anlatıldığı rehberleri içeren repo.
